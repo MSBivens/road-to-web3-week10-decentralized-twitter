@@ -11,7 +11,6 @@ export default function Home() {
   return (
     <div>
       {data.recommendedProfiles.map((profile, index) => {
-        // {data.recommendedProfilesQuery.map((profile, index) => {
         console.log(`Profile ${index}:`, profile);
         return (
           <Profile
