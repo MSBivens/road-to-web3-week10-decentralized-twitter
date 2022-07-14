@@ -30,7 +30,9 @@ Tools: Lens Protocol, GraphQL, Next.js
    ```
 
 Home Page wtih reccomended accounts
-![product-image-1](product-image-1.png)
+
+![product-image-1](./product-image-1.PNG)
 
 Profile page with fetched content for a profile
-![product-image-2](product-image-2.png)
+
+![product-image-2](./product-image-2.PNG)
